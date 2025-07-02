@@ -1,0 +1,12 @@
+What's Changed
+Adds the ability for the flashblocks aware reth node to be able to process brotli compressed JSON messages as well along with raw JSON
+
+chore: bump node-reth to 0.1.2 by @haardikk21 in #476
+New Contributors
+@haardikk21 made their first contribution in #476
+Full Changelog: v0.12.4...v0.12.5
+
+Contributors
+@haardikk21
+haardikk21
+Assets 2
